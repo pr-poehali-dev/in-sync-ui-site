@@ -56,7 +56,7 @@ const PORTFOLIO = [
     desc: "Дизайн аналитической платформы для управления инвестициями",
     color: "from-violet-900/40 to-purple-900/20",
     accent: "#c084fc",
-    year: "2024",
+    year: "2026",
   },
   {
     title: "MedCare Mobile",
@@ -64,7 +64,7 @@ const PORTFOLIO = [
     desc: "UX для приложения телемедицины — от онбординга до записи к врачу",
     color: "from-indigo-900/40 to-violet-900/20",
     accent: "#818cf8",
-    year: "2024",
+    year: "2026",
   },
   {
     title: "EduFlow Platform",
@@ -72,7 +72,7 @@ const PORTFOLIO = [
     desc: "Дизайн-система для EdTech платформы с 40+ компонентами",
     color: "from-purple-900/40 to-fuchsia-900/20",
     accent: "#e879f9",
-    year: "2023",
+    year: "2025",
   },
   {
     title: "Retail Rebranding",
@@ -80,7 +80,7 @@ const PORTFOLIO = [
     desc: "Редизайн e-commerce с увеличением конверсии на 38%",
     color: "from-violet-950/40 to-purple-800/20",
     accent: "#a78bfa",
-    year: "2023",
+    year: "2025",
   },
 ];
 
@@ -109,8 +109,8 @@ const BLOG = [
 ];
 
 const STATS = [
-  { value: "80+", label: "проектов" },
-  { value: "5", label: "лет опыта" },
+  { value: "20+", label: "проектов" },
+  { value: "2025", label: "год основания" },
   { value: "38%", label: "рост конверсии" },
   { value: "25+", label: "клиентов" },
 ];
@@ -847,7 +847,7 @@ export default function Index() {
               </a>
 
               <a
-                href="https://wa.me/79000000000"
+                href="https://wa.me/79013906401"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 glass rounded-xl p-5 card-hover"
@@ -861,13 +861,13 @@ export default function Index() {
                 </div>
                 <div>
                   <div className="font-golos font-semibold text-white text-sm">WhatsApp</div>
-                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>+7 (900) 000-00-00</div>
+                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>+7 (901) 390-64-01</div>
                 </div>
                 <Icon name="ArrowRight" size={16} className="ml-auto" style={{ color: "rgba(192,132,252,0.4)" }} />
               </a>
 
               <a
-                href="mailto:hello@insync.ui"
+                href="mailto:linsyncui@gmail.com"
                 className="flex items-center gap-4 glass rounded-xl p-5 card-hover"
                 style={{ border: "1px solid rgba(147,51,234,0.15)", textDecoration: "none" }}
               >
@@ -879,7 +879,7 @@ export default function Index() {
                 </div>
                 <div>
                   <div className="font-golos font-semibold text-white text-sm">Email</div>
-                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>hello@insync.ui</div>
+                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>linsyncui@gmail.com</div>
                 </div>
                 <Icon name="ArrowRight" size={16} className="ml-auto" style={{ color: "rgba(192,132,252,0.4)" }} />
               </a>
