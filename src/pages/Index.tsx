@@ -827,7 +827,7 @@ export default function Index() {
               </div>
 
               <a
-                href="https://t.me/insyncui"
+                href="https://t.me/InSync_UI"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-4 glass rounded-xl p-5 card-hover"
@@ -841,7 +841,7 @@ export default function Index() {
                 </div>
                 <div>
                   <div className="font-golos font-semibold text-white text-sm">Telegram</div>
-                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>@insyncui</div>
+                  <div className="font-golos text-xs" style={{ color: "rgba(200,180,230,0.45)" }}>@InSync_UI</div>
                 </div>
                 <Icon name="ArrowRight" size={16} className="ml-auto" style={{ color: "rgba(192,132,252,0.4)" }} />
               </a>
